@@ -1,0 +1,197 @@
+
+body{
+    font-family: 'Space Mono', monospace;
+    background-color: black;
+}
+
+
+
+.nav-item{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    
+}
+
+.nav-link{
+    color: white;
+
+}
+
+.navbar-toggler{
+    color: white;
+}
+
+a.nav-link:hover {
+    color: green;
+    cursor: pointer;
+}
+
+
+
+.navbar{
+    background-color: black;
+}
+
+
+
+
+
+#header{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10%;
+
+}
+
+#skills{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15%;
+    padding-bottom: 5%;
+
+}
+
+
+.skill{
+    margin-bottom: 100px;
+    text-align: center;
+    
+    
+}
+
+.skills-h2{
+    padding: 10%;
+}
+
+
+.icon:hover{
+    color: green;
+    cursor: pointer
+    ;
+}
+
+.header-h1{
+    font-size: 4rem;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    
+   
+
+}
+
+
+#photo-carasoul{
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
+
+
+.carasoul-h2{
+    margin-bottom: 100px;
+    padding-top: 100px;
+
+}
+
+.carousel{
+    text-align: center;
+    
+ 
+    width: 100%;
+
+}
+
+.carousel-item{
+    padding: 15%;
+}
+
+
+
+.photo{
+    height: 50%;
+    width: 1000px;
+}
+
+
+
+
+#footer{
+    background-color:  black;
+    color: white;
+    text-align: center;
+}
+
+.footer-h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fa-2x{
+    padding: 20px;
+    margin-bottom: 3%;
+}
+
+.fa-2x:hover{
+    color: green;
+}
+
+#services{
+   
+    text-align: center;
+    background-color: black;
+    padding: 15%;
+}
+
+.pricingcol{
+    text-align: center;
+    color: green;
+    /* border: green 1px solid; */
+    margin-top: 50px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    transition: 0.5s;
+    
+    
+
+}
+
+.pricingcol:hover{
+    transform:scale(1.1);
+}
+
+.card-header{
+    background-color: gray;
+}
+
+.card-body{
+    background-color: gray;
+}
+
+.h2-services{
+    color: green;
+    margin-bottom: 50px;
+}
+
+.ikon-link{
+    color: white;
+}
+
+.ikon-link:hover{
+    color: green;
+    cursor: pointer;
+
+}
+
+
+
+.toggler{
+    color: green;
+    text-align: center;
+    margin:auto;
+    font-size: 28px;
+
+}
